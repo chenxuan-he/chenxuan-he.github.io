@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Institute of Statistics and Big Data, Renmin University of China</a>#. Address. Contacts. Moto. Etc.
+subtitle: Student in <a href='http://isbd.ruc.edu.cn/'>Institute of Statistics and Big Data, Renmin University of China</a>
 
 profile:
   align: right
